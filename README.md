@@ -1,0 +1,1 @@
+This is a dumb IRC bot I use for Magic: the Gathering channels on freenode. It also has some basic quote storage functionality.
